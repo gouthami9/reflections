@@ -8,5 +8,5 @@ pros in commit we can change logic which are similar at once using one commit ,w
 in oder to simply the work when we chage in it applicable to all files in the commit
 git log is used to veiw all commits that have been made
 git diff is used to what chages have been made between 2 consecutive commits
-yes it made me confident about git
+
 

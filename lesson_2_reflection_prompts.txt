@@ -1,8 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
+a new area is created for storing files 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+staging area is the medium inorder to write to the repository from working area. staging area helps us to keep the data in the working area evwn when we want to reset the staging area
 How can you use the staging area to make sure you have one commit per logical
 change?
 
