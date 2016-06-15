@@ -3,3 +3,4 @@ remote repository
 forking is usefull to make changes globally anywhere and update with this 
 and we take others help even in making changes
 
+pull request is easy and most helpfull tool
