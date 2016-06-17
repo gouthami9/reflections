@@ -1,4 +1,4 @@
-remote repository
+github and git are the most useful tools for udating the codes
 
 forking is usefull to make changes globally anywhere and update with this 
 and we take others help even in making changes and can be updated easily
