@@ -3,6 +3,6 @@ remote repository
 forking is usefull to make changes globally anywhere and update with this 
 and we take others help even in making changes and can be updated easily
 
-pull request is easy and most helpfull tool
+pull request is easy and most helpfull tool by using this we can even take help of others
 
 by using push and pull we can make chages to the file and store them in git hub and pc without loosing the data
