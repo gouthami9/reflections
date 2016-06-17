@@ -2,7 +2,7 @@ sarah said,there is alot of research out there on reflection.
 
 how to compare 2 files before changing and after changing 
  
-how see the history of file
+history can be viewed in the form of commits.
 
 pros in commit we can change logic which are similar at once using one commit ,where as in google docs as those are saved automatically it will take more commits
 in oder to simply the work when we chage in it applicable to all files in the commit
